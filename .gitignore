@@ -1,0 +1,10 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore python virtual environment
+.venv/
+
+# Ignore Artefacts, Recordings, and WhisperAI directories wherever they are
+**/Artefacts/
+**/Recordings/
+**/WhisperAI/
