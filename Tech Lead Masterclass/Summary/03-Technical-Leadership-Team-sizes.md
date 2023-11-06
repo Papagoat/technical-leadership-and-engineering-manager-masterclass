@@ -42,4 +42,4 @@
 
 
 <br><br>
-The content provided is part of an Technical Leadership Masterclass conducted by Patrick Kua (@patkua) from TechLead Academy. This event was organized by Henry Suryawirawan, host of the Tech Lead Journal.
+The content provided is part of a Technical Leadership Masterclass conducted by Patrick Kua (@patkua) from TechLead Academy. This event was organized by Henry Suryawirawan, host of the Tech Lead Journal.

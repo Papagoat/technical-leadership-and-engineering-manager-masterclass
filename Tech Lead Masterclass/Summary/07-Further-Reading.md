@@ -111,4 +111,4 @@ Any of the models below are easily found on the Internet.
 - Vroom-Yetton-Jago Decision Model – A framework to help you decide what decision-making method you should use based on the importance of the decision and how much commitment you want from team members.
 
 <br><br>
-The content provided is part of an Technical Leadership Masterclass conducted by Patrick Kua (@patkua) from TechLead Academy. This event was organized by Henry Suryawirawan, host of the Tech Lead Journal.
+The content provided is part of a Technical Leadership Masterclass conducted by Patrick Kua (@patkua) from TechLead Academy. This event was organized by Henry Suryawirawan, host of the Tech Lead Journal.
