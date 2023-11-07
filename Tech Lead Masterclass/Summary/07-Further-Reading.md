@@ -28,7 +28,7 @@ The following list is a recommendation of books grouped in a number of areas tha
 - The Unicorn Project by Gene Kim (https://geni.us/qkklDJn) - A sequel to The Phoenix Project, focused on changing software architecture enables agility.
 
 ## People
-- Bad is Stronger than Good by Roy F. Baumeister et al (2001) – A paper that describes our negativity bias. This paper has good implications about dealing with Bad Apples in teams.
+- Bad is Stronger than Good by Roy F. Baumeister et al (https://assets.csom.umn.edu/assets/71516.pdf) – A paper that describes our negativity bias. This paper has good implications about dealing with Bad Apples in teams.
 - Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures by Erin Meyer (https://geni.us/fAef) - A useful book that helps you understand how to communicate and interact with people from different cultures.
 - The Difference by Scott E. Page (https://geni.us/FQJ5) - Describes the power of diversity and the necessary conditions about when it really helps.
 - Drive: The Surprising Truth About What Motivates Us by Daniel Pink (https://geni.us/hWzLQ) – All leaders should read this book to understand the environment to create to engage people: Autonomy, Mastery and 
@@ -39,7 +39,7 @@ Purpose
 - How to Win Friends and Influence People by Dale Carnegie (https://geni.us/HAdblr) - An oldie but a good book that talks about some principles of influencing.
 - Hofstede Cultural Dimensions (http://geert-hofstede.com/) - A website that introduces the idea of cultural dimensions across different countries.
 - Mindset: Changing The Way You think To Fulfil Your Potential by Dr Carol S. Dweck (https://geni.us/VgnVK) - The book that talks about the Growth versus Fixed mindset and how each mindset helps/hinders performance.
-- Opinion: The unspoken truth about managing geeks by J. Ello (http:// thekua.io/unspoken-truth-geeks) – Explains how developers approach trust and respect.
+- Opinion: The unspoken truth about managing geeks by J. Ello (http://thekua.io/unspoken-truth-geeks) – Explains how developers approach trust and respect.
 - Radical Candor by Kim Scott (https://geni.us/426BW) - Communication tips to focus on being direct and having empathy. Helpful in being clear, giving feedback and still maintaining good relationships with people.
 - Thanks for the Feedback: The Science and Art of Receiving Feedback Well by Douglas Stone et al (https://geni.us/BpZO) - A guide to understanding how to extract useful feedback out of conversations with people.
 
